@@ -1,0 +1,15 @@
+{
+  "name": "tictactoe",
+  "version": "1.0.0",
+  "main": "run.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node index.js"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "typescript": "^5.0.0",
+    "readline-sync": "^1.4.10",
+    "@types/readline-sync": "^1.4.8"
+  }
+} 
